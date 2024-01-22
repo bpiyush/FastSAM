@@ -7,3 +7,5 @@ weights
 build/
 *.egg-info/
 gradio_cached_examples
+pouring_water_images
+output/*.png
